@@ -3,4 +3,9 @@
 # Day1 SourceTree 연동 함
 
 ## html 미션 완료!
-![html미션](./image/결과물.png)
+[sub_misson 디렉토리](./sub_mission/)
+</br></br>
+
+> **미션 완성 이미지**
+
+![html미션](./sub_mission/image/결과물.png)
